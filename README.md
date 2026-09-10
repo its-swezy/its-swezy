@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/its-swezy">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4f46e5&fontSize=54&height=90&width=634&text=Hi%2C%20ich%20bin%20Swezy" alt="Hi, ich bin Swezy" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4f46e5&fontSize=54&height=90&width=602&text=Hello%2C%20I'm%20Swezy" alt="Hello, I&#39;m Swezy" />
   </a>
 </p>
 
